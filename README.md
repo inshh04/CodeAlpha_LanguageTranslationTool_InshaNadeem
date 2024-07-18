@@ -22,7 +22,7 @@ It mentions that the tool allows users to input text, specify source and target 
 3. Install the required dependencies:
          pip install googletrans==4.0.0-rc1
 
-##Usage
+## Usage
 1. Run the script
 2. Enter the text you want to translate.
 3. Enter the source language code (e.g., en for English).
@@ -30,7 +30,7 @@ It mentions that the tool allows users to input text, specify source and target 
 5. The translated text and its Romanized form (if available) will be displayed.
 6. You will be asked if you want to translate another text. Type yes to continue or any other key to exit.
 
-##Example
+## Example
 Enter the text to be translated: Hello, world!
 
 Available languages and their codes:
@@ -152,7 +152,7 @@ Do you want to translate another text? (yes/no): yes
 
 Enter the text to be translated: How are you?
 
-##Contributions
+## Contributions
 
 Contributions are welcome! Please follow these steps to contribute:
 
@@ -162,12 +162,12 @@ Contributions are welcome! Please follow these steps to contribute:
 4. Push to the branch (git push origin feature/your-feature-name).
 5. Create a new Pull Request.
 
-##License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-##Authors and Acknowledgments
+## Authors and Acknowledgments
 Insha Nadeem - Initial work - Insha Nadeem's GitHub profile
 
-##Acknowledgments
+## Acknowledgments
 Thanks to the creators of the googletrans library.
 Inspired by various online translation tools.
